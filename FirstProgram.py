@@ -187,5 +187,5 @@ for item in num:
 num1 = range (1,10,2)
 for item in num1:
     print(item)
-
+print("Hello world")
 #Tuple : They are same as list but the vaalues are not changable :also we use '()' to replresent tuple
